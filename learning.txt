@@ -1,0 +1,6 @@
+Things I've learned so far.
+1. I  have learned how to create a repository.
+2. I  have learned how to commit.
+3. I  also learned how to pull requests.
+4. I also learned how to edit and make changes to a file in GitHub.
+5. I also learned how to use a Sandbox.
