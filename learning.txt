@@ -1,4 +1,4 @@
-Things I've learned so far.
+What I have learned from this course
 1. I  have learned how to create a repository.
 2. I  have learned how to commit.
 3. I  also learned how to pull requests.
